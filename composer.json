@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/git-learning",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "emshi",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
